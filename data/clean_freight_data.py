@@ -19,4 +19,3 @@ if "amount" in df.columns:
 df.to_csv(output_file, index=False)
 
 print("Data cleaning completed successfully.")
-
