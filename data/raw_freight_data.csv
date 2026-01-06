@@ -1,1 +1,7 @@
-
+invoice_id,supplier,date,amount,currency,route
+INV-1001,Maersk,2025-05-03,1200,EUR,Constanta-Rotterdam
+INV-1002,MSC,2025-05-05, 950 ,EUR,Bucharest-Hamburg
+INV-1003,CMA CGM,2025-05-09,not_available,EUR,Constanta-Antwerp
+INV-1004,Maersk,2025/05/11,1325,EUR,Constanta-Rotterdam
+INV-1005,ONE,,1100,EUR,Bucharest-Hamburg
+INV-1006,Hapag-Lloyd,2025-05-20,875,EUR,Constanta-Gdansk
