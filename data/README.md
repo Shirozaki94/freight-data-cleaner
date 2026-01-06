@@ -11,3 +11,5 @@ Focus on data validation, basic transformations, and generating clean outputs fo
 - Exports a cleaned CSV file
 
 ## Project structure
+pip install -r requirements.txt
+python clean_freight_data.py
